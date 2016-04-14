@@ -1,12 +1,12 @@
 {
-    "name": "caffeinated/themes",
+    "name": "atriakit/themes",
     "description": "Laravel 5 Themes",
     "keywords": ["themes", "laravel", "caffeinated", "blade", "twig"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Shea Lewis",
-            "email": "shea.lewis89@gmail.com"
+            "name": "atriakit",
+            "email": "atriakit@gmail.com"
         }
     ],
     "require": {
@@ -20,8 +20,5 @@
         "psr-4": {
             "Caffeinated\\Themes\\": "src/"
         }
-    },
-    "suggest": {
-        "caffeinated/sapling": "Laravel 5 Twig integration package"
     }
 }
